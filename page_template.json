@@ -1,0 +1,34 @@
+{
+  "parent": {
+    "database_id": "<<database_id>>"
+  },
+  "properties": {
+    "title": {
+      "title": [
+        {
+          "text": {
+            "content": "<<comic_title>>"
+          }
+        }
+      ]
+    },
+    "棚": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "<<shelf_num>>"
+          }
+        }
+      ]
+    },
+    "日付": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "<<arrival_date>>"
+          }
+        }
+      ]
+    }
+  }
+}
